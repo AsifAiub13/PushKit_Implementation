@@ -1,5 +1,5 @@
-# iOS_PushKit_Implementation (Tested on iOS 11)
-Testing PushKit on iOS device:
+# iOS_PushKit_Implementation
+PushKit on iOS device:
 
 1. Checkout the project.
 2. Run it. Get ur device token from xcode  console : “DEVICE_TOKEN GENERATED! <xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx>
